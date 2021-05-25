@@ -440,7 +440,7 @@ header .head-img img {
   color: #fff;
   cursor: pointer;
   -webkit-box-flex: 0.5;
-      -ms-flex: 0.5;
+  -ms-flex: 0.5;
           flex: 0.5;
   margin: 10px;
   position: relative;
